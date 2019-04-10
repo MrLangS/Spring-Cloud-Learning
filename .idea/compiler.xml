@@ -8,8 +8,11 @@
         <outputRelativeToContentRoot value="true" />
         <module name="eureka-client" />
         <module name="eureka-ribbon" />
+        <module name="eureka-ribbon-hystrix" />
         <module name="eureka-Server" />
         <module name="LearnSpringcloud" />
+        <module name="service-feign" />
+        <module name="service-feign-hystrix" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
@@ -19,7 +22,6 @@
       <module name="eureka-consumer-ribbon" target="1.8" />
       <module name="eureka-server" target="1.8" />
       <module name="LearnSpringcloud" target="1.5" />
-      <module name="spring-cloud-chapter1" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>

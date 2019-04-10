@@ -9,6 +9,9 @@
         <option value="$PROJECT_DIR$/spring-cloud-chapter1/eureka-server/pom.xml" />
         <option value="$PROJECT_DIR$/spring-cloud-chapter1/eureka-client/pom.xml" />
         <option value="$PROJECT_DIR$/spring-cloud-chapter1/eureka-ribbon/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-cloud-chapter1/service-feign/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-cloud-chapter1/eureka-ribbon-hystrix/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-cloud-chapter1/feign-hystrix/pom.xml" />
       </list>
     </option>
   </component>

@@ -2,15 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="835fcd5a-569f-4b30-89e2-28ad70095b18" name="Default Changelist" comment="添加ribbon">
-      <change afterPath="$PROJECT_DIR$/spring-cloud-chapter1/config-client/src/main/resources/bootstrap.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/my.log" beforeDir="false" afterPath="$PROJECT_DIR$/my.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-cloud-chapter1/config-server/src/main/java/com/lang/configserver/ConfigServerApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/spring-cloud-chapter1/config-server/src/main/java/com/lang/configserver/ConfigServerApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-cloud-chapter1/config-client/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/spring-cloud-chapter1/config-client/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-cloud-chapter1/config-client/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/spring-cloud-chapter1/config-client/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-cloud-chapter1/config-client/src/main/resources/bootstrap.properties" beforeDir="false" afterPath="$PROJECT_DIR$/spring-cloud-chapter1/config-client/src/main/resources/bootstrap.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-cloud-chapter1/config-client/target/classes/bootstrap.properties" beforeDir="false" afterPath="$PROJECT_DIR$/spring-cloud-chapter1/config-client/target/classes/bootstrap.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/spring-cloud-chapter1/config-server/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/spring-cloud-chapter1/config-server/src/main/resources/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-cloud-chapter1/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/spring-cloud-chapter1/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-cloud-chapter1/config-server/target/classes/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/spring-cloud-chapter1/config-server/target/classes/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-cloud-chapter1/eureka-server/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/spring-cloud-chapter1/eureka-server/pom.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -58,31 +57,31 @@
         <counts>
           <entry key="class" value="2" />
           <entry key="gitignore" value="1" />
-          <entry key="java" value="59" />
+          <entry key="java" value="62" />
           <entry key="log" value="2" />
-          <entry key="properties" value="24" />
-          <entry key="xml" value="48" />
-          <entry key="yml" value="17" />
+          <entry key="properties" value="27" />
+          <entry key="xml" value="54" />
+          <entry key="yml" value="19" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="CLASS" value="2" />
-          <entry key="JAVA" value="59" />
+          <entry key="JAVA" value="62" />
           <entry key="Log" value="1" />
           <entry key="PLAIN_TEXT" value="2" />
-          <entry key="Properties" value="24" />
-          <entry key="XML" value="48" />
-          <entry key="YAML" value="17" />
+          <entry key="Properties" value="27" />
+          <entry key="XML" value="54" />
+          <entry key="YAML" value="19" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="4" />
           <entry key="java" value="1949" />
-          <entry key="properties" value="23" />
+          <entry key="properties" value="34" />
           <entry key="txt" value="16" />
-          <entry key="xml" value="257" />
+          <entry key="xml" value="261" />
           <entry key="yml" value="533" />
         </counts>
       </usages-collector>
@@ -90,8 +89,8 @@
         <counts>
           <entry key="JAVA" value="1949" />
           <entry key="PLAIN_TEXT" value="20" />
-          <entry key="Properties" value="23" />
-          <entry key="XML" value="257" />
+          <entry key="Properties" value="34" />
+          <entry key="XML" value="261" />
           <entry key="YAML" value="533" />
         </counts>
       </usages-collector>
@@ -104,32 +103,29 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/spring-cloud-chapter1/config-client/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="282">
+              <caret line="34" column="21" selection-start-line="34" selection-start-column="21" selection-end-line="34" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/spring-cloud-chapter1/pom.xml">
+        <entry file="file://$PROJECT_DIR$/spring-cloud-chapter1/config-client/src/main/resources/application.properties">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="130">
-              <caret line="23" column="38" selection-start-line="23" selection-start-column="38" selection-end-line="23" selection-end-column="38" />
+            <state relative-caret-position="136">
+              <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/spring-cloud-chapter1/config-server/src/main/resources/application.properties">
+        <entry file="file://$PROJECT_DIR$/spring-cloud-chapter1/config-client/src/main/resources/bootstrap.properties">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="8" selection-start-line="8" selection-end-line="8" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/spring-cloud-chapter1/config-server/src/main/java/com/lang/configserver/ConfigServerApplication.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="85">
+              <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
             </state>
           </provider>
         </entry>
@@ -150,7 +146,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/eureka-consumer-ribbon/src/main/java/com/lang/ribbon/EurekaConsumerRibbonApplication.java" />
         <option value="$PROJECT_DIR$/eureka-consumer-ribbon/src/main/java/com/lang/ribbon/controller/DcController.java" />
         <option value="$PROJECT_DIR$/eureka-consumer-ribbon/src/main/resources/application.properties" />
         <option value="$PROJECT_DIR$/eureka-consumer/src/main/java/com/lang/eurekaconsumer/EurekaConsumerApplication.java" />
@@ -162,7 +157,6 @@
         <option value="$PROJECT_DIR$/euraka-client/src/main/java/com/lang/eurakaclient/controller/DcController.java" />
         <option value="$PROJECT_DIR$/spring-cloud-chapter1/eureka-server/src/main/resources/application.yml" />
         <option value="$PROJECT_DIR$/spring-cloud-chapter1/eureka-server/src/main/java/com/lang/eurekaserver/EurekaServerApplication.java" />
-        <option value="$PROJECT_DIR$/spring-cloud-chapter1/eureka-server/pom.xml" />
         <option value="$PROJECT_DIR$/spring-cloud-chapter1/eureka-client/pom.xml" />
         <option value="$PROJECT_DIR$/spring-cloud-chapter1/eureka-client/src/main/resources/application.properties" />
         <option value="$PROJECT_DIR$/spring-cloud-chapter1/eureka-client/src/main/java/com/lang/eurekaclient/EurekaClientApplication.java" />
@@ -196,11 +190,13 @@
         <option value="$PROJECT_DIR$/spring-cloud-chapter1/service-zuul/src/main/java/com/lang/servicezuul/component/MyFilter.java" />
         <option value="$PROJECT_DIR$/spring-cloud-chapter1/service-zuul/src/main/resources/application.yml" />
         <option value="$PROJECT_DIR$/spring-cloud-chapter1/config-server/src/main/java/com/lang/configserver/ConfigServerApplication.java" />
-        <option value="$PROJECT_DIR$/spring-cloud-chapter1/config-server/src/main/resources/application.properties" />
-        <option value="$PROJECT_DIR$/spring-cloud-chapter1/config-client/pom.xml" />
-        <option value="$PROJECT_DIR$/spring-cloud-chapter1/config-client/src/main/resources/bootstrap.properties" />
         <option value="$PROJECT_DIR$/spring-cloud-chapter1/pom.xml" />
         <option value="$PROJECT_DIR$/spring-cloud-chapter1/config-client/src/main/java/com/lang/configclient/ConfigClientApplication.java" />
+        <option value="$PROJECT_DIR$/spring-cloud-chapter1/eureka-server/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-cloud-chapter1/config-server/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/spring-cloud-chapter1/config-client/src/main/resources/bootstrap.properties" />
+        <option value="$PROJECT_DIR$/spring-cloud-chapter1/config-client/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-cloud-chapter1/config-client/src/main/resources/application.properties" />
       </list>
     </option>
   </component>
@@ -295,65 +291,6 @@
               <item name="config-client" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="LearnSpringcloud" type="b2602c69:ProjectViewProjectNode" />
-              <item name="LearnSpringcloud" type="462c0819:PsiDirectoryNode" />
-              <item name="spring-cloud-chapter1" type="462c0819:PsiDirectoryNode" />
-              <item name="config-client" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="configclient" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="LearnSpringcloud" type="b2602c69:ProjectViewProjectNode" />
-              <item name="LearnSpringcloud" type="462c0819:PsiDirectoryNode" />
-              <item name="spring-cloud-chapter1" type="462c0819:PsiDirectoryNode" />
-              <item name="config-server" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="LearnSpringcloud" type="b2602c69:ProjectViewProjectNode" />
-              <item name="LearnSpringcloud" type="462c0819:PsiDirectoryNode" />
-              <item name="spring-cloud-chapter1" type="462c0819:PsiDirectoryNode" />
-              <item name="config-server" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="LearnSpringcloud" type="b2602c69:ProjectViewProjectNode" />
-              <item name="LearnSpringcloud" type="462c0819:PsiDirectoryNode" />
-              <item name="spring-cloud-chapter1" type="462c0819:PsiDirectoryNode" />
-              <item name="config-server" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="LearnSpringcloud" type="b2602c69:ProjectViewProjectNode" />
-              <item name="LearnSpringcloud" type="462c0819:PsiDirectoryNode" />
-              <item name="spring-cloud-chapter1" type="462c0819:PsiDirectoryNode" />
-              <item name="config-server" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="LearnSpringcloud" type="b2602c69:ProjectViewProjectNode" />
-              <item name="LearnSpringcloud" type="462c0819:PsiDirectoryNode" />
-              <item name="spring-cloud-chapter1" type="462c0819:PsiDirectoryNode" />
-              <item name="config-server" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="configserver" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="LearnSpringcloud" type="b2602c69:ProjectViewProjectNode" />
-              <item name="LearnSpringcloud" type="462c0819:PsiDirectoryNode" />
-              <item name="spring-cloud-chapter1" type="462c0819:PsiDirectoryNode" />
-              <item name="config-server" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="resources" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -369,7 +306,7 @@
     <property name="RequestMappingsPanelWidth1" value="75" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1554960975507" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1554962990634" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../spring-cloud-examples" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -511,8 +448,8 @@
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Spring Boot.EurekaClientApplication" />
         <item itemvalue="Spring Boot.EurekaServerApplication" />
+        <item itemvalue="Spring Boot.EurekaClientApplication" />
         <item itemvalue="Application.EurekaRibbonApplication" />
       </list>
     </recent_temporary>
@@ -538,7 +475,7 @@
       <workItem from="1554781800274" duration="2973000" />
       <workItem from="1554790228106" duration="19043000" />
       <workItem from="1554944871878" duration="6023000" />
-      <workItem from="1554950992295" duration="4132000" />
+      <workItem from="1554950992295" duration="6043000" />
     </task>
     <task id="LOCAL-00001" summary="添加zuul">
       <created>1554892253454</created>
@@ -551,7 +488,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="62308000" />
+    <option name="totallyTimeSpent" value="64219000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -590,7 +527,7 @@
       <window_info anchor="bottom" id="Java Enterprise" order="12" weight="0.32907802" />
       <window_info anchor="bottom" id="Database Changes" order="13" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="14" weight="0.32907802" />
-      <window_info anchor="bottom" id="Run Dashboard" order="15" visible="true" weight="0.43404254" />
+      <window_info anchor="bottom" id="Run Dashboard" order="15" visible="true" weight="0.3602837" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -645,7 +582,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/eureka-server/src/main/resources/application.properties" />
     <entry file="file://$PROJECT_DIR$/eureka-consumer-feign/pom.xml" />
     <entry file="file://$PROJECT_DIR$/euraka-client/src/main/java/com/lang/eurakaclient/EurakaClientApplication.java" />
     <entry file="file://$PROJECT_DIR$/euraka-client/src/main/java/com/lang/eurakaclient/controller/DcController.java" />
@@ -654,37 +590,9 @@
     <entry file="file://$PROJECT_DIR$/eureka-consumer-ribbon/pom.xml" />
     <entry file="file://$PROJECT_DIR$/pom.xml" />
     <entry file="file://$PROJECT_DIR$/eureka-server/pom.xml" />
-    <entry file="file://$PROJECT_DIR$/spring-cloud-chapter1/eureka-server/src/main/java/com/lang/eurekaserver/EurekaServerApplication.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="7" column="19" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/spring-cloud-chapter1/eureka-client/src/main/resources/application.properties" />
     <entry file="file://$PROJECT_DIR$/.idea/vcs.xml">
       <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spring-cloud-chapter1/eureka-server/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" selection-start-line="14" selection-end-line="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spring-cloud-chapter1/eureka-client/src/main/java/com/lang/eurekaclient/EurekaClientApplication.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="19" column="28" selection-start-line="19" selection-start-column="28" selection-end-line="19" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spring-cloud-chapter1/eureka-client/src/main/resources/application.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="7" lean-forward="true" selection-start-line="7" selection-start-column="7" selection-end-line="7" selection-end-column="7" />
-        </state>
-      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/spring-cloud-chapter1/eureka-ribbon/src/main/java/com/lang/eurekaribbon/web/HelloController.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -827,13 +735,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/spring-cloud-chapter1/eureka-server/src/main/resources/application.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="25" lean-forward="true" selection-start-line="8" selection-start-column="25" selection-end-line="8" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/spring-cloud-chapter1/service-zuul/src/main/resources/application.yml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="287">
@@ -886,24 +787,52 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/spring-cloud-chapter1/config-client/src/main/resources/bootstrap.properties">
+    <entry file="file://$PROJECT_DIR$/spring-cloud-chapter1/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="31" lean-forward="true" selection-start-line="2" selection-start-column="31" selection-end-line="2" selection-end-column="31" />
+        <state relative-caret-position="181">
+          <caret line="26" column="37" selection-start-line="26" selection-start-column="37" selection-end-line="26" selection-end-column="37" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/spring-cloud-chapter1/config-client/pom.xml">
+    <entry file="file://$PROJECT_DIR$/spring-cloud-chapter1/eureka-client/src/main/java/com/lang/eurekaclient/EurekaClientApplication.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="41" selection-start-line="7" selection-start-column="41" selection-end-line="7" selection-end-column="41" />
+        <state relative-caret-position="187">
+          <caret line="19" column="28" selection-start-line="19" selection-start-column="28" selection-end-line="19" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-cloud-chapter1/eureka-client/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="47" selection-start-line="10" selection-start-column="41" selection-end-line="10" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-cloud-chapter1/eureka-server/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="25" column="60" lean-forward="true" selection-start-line="25" selection-start-column="60" selection-end-line="25" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-cloud-chapter1/eureka-server/src/main/java/com/lang/eurekaserver/EurekaServerApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="7" column="19" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="19" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/spring-cloud-chapter1/config-server/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="13" column="30" selection-start-line="13" selection-start-column="30" selection-end-line="13" selection-end-column="30" />
+        <state relative-caret-position="204">
+          <caret line="27" column="8" lean-forward="true" selection-start-line="27" selection-start-column="8" selection-end-line="30" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-cloud-chapter1/config-server/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="66" selection-start-line="8" selection-start-column="66" selection-end-line="8" selection-end-column="66" />
         </state>
       </provider>
     </entry>
@@ -917,28 +846,38 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/spring-cloud-chapter1/config-server/src/main/resources/application.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" selection-start-line="8" selection-end-line="8" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/spring-cloud-chapter1/config-client/src/main/java/com/lang/configclient/ConfigClientApplication.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
+        <state relative-caret-position="221">
           <caret line="21" column="5" selection-start-line="21" selection-start-column="5" selection-end-line="21" selection-end-column="5" />
-          <folding>
-            <element signature="e#635#636#0" expanded="true" />
-            <element signature="e#661#662#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/spring-cloud-chapter1/pom.xml">
+    <entry file="file://$PROJECT_DIR$/spring-cloud-chapter1/eureka-server/src/main/resources/application.yml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="130">
-          <caret line="23" column="38" selection-start-line="23" selection-start-column="38" selection-end-line="23" selection-end-column="38" />
+        <state relative-caret-position="187">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-cloud-chapter1/config-client/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="282">
+          <caret line="34" column="21" selection-start-line="34" selection-start-column="21" selection-end-line="34" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-cloud-chapter1/config-client/src/main/resources/bootstrap.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-cloud-chapter1/config-client/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
         </state>
       </provider>
     </entry>

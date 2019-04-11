@@ -16,6 +16,8 @@
         <module name="service-feign" />
         <module name="service-feign-hystrix" />
         <module name="service-zuul" />
+        <module name="zipkin-hi" />
+        <module name="zipkin-miya" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>

@@ -12,6 +12,8 @@
         <option value="$PROJECT_DIR$/spring-cloud-chapter1/service-feign/pom.xml" />
         <option value="$PROJECT_DIR$/spring-cloud-chapter1/eureka-ribbon-hystrix/pom.xml" />
         <option value="$PROJECT_DIR$/spring-cloud-chapter1/feign-hystrix/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-cloud-chapter1/service-zuul/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-cloud-chapter1/config-server/pom.xml" />
       </list>
     </option>
   </component>

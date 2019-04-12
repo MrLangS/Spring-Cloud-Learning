@@ -27,6 +27,10 @@
         <module>service-zuul</module>
         <module>config-server</module>
         <module>config-client</module>
+        <module>zipkin-hi</module>
+        <module>zipkin-miya</module>
+        <module>lucy-client</module>
+        <module>service-turbine</module>
     </modules>
 
     <properties>

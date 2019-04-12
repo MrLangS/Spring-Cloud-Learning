@@ -17,6 +17,8 @@
         <option value="$PROJECT_DIR$/spring-cloud-chapter1/config-client/pom.xml" />
         <option value="$PROJECT_DIR$/spring-cloud-chapter1/zipkin-hi/pom.xml" />
         <option value="$PROJECT_DIR$/spring-cloud-chapter1/zipkin-miya/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-cloud-chapter1/lucy-client/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-cloud-chapter1/service-turbine/pom.xml" />
       </list>
     </option>
   </component>

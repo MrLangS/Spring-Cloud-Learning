@@ -1,4 +1,4 @@
-package com.lang.eurekaclient;
+package com.lang.lucyclient;
 
 import com.netflix.hystrix.contrib.javanica.annotation.HystrixCommand;
 import org.springframework.beans.factory.annotation.Value;
@@ -20,23 +20,21 @@ import org.springframework.web.bind.annotation.RestController;
 @EnableHystrix
 @EnableHystrixDashboard
 @EnableCircuitBreaker
-public class EurekaClientApplication {
+public class LucyClientApplication {
 
     public static void main(String[] args) {
-        SpringApplication.run(EurekaClientApplication.class, args);
+        SpringApplication.run(LucyClientApplication.class, args);
     }
 
     @Value("${server.port}")
     String port;
-
     @RequestMapping("/hi")
     @HystrixCommand(fallbackMethod = "hiError")
-    public String home(@RequestParam(value = "name", defaultValue = "forezp") String name){
-        return "hi"+name+",i am from port:"+port;
+    public String home(@RequestParam String name) {
+        return "hi "+name+",i  am lucy and from port:" +port;
     }
 
-    public String hiError(String name){
+    public String hiError(String name) {
         return "hi,"+name+",sorry,error!";
     }
-
 }

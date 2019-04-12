@@ -13,8 +13,10 @@
         <module name="eureka-ribbon-hystrix" />
         <module name="eureka-Server" />
         <module name="LearnSpringcloud" />
+        <module name="lucy-client" />
         <module name="service-feign" />
         <module name="service-feign-hystrix" />
+        <module name="service-turbine" />
         <module name="service-zuul" />
         <module name="zipkin-hi" />
         <module name="zipkin-miya" />

@@ -32,7 +32,7 @@ public class ZipkinHiApplication {
     @RequestMapping("/hi")
     public String callHome(){
         logger.info("calling trace service-hi  ");
-        return restTemplate.getForObject("http://localhost:8989/miya", String.class);
+        return restTemplate.getForObject("http://localhost:8989/hi", String.class);
     }
 
     @RequestMapping("/info")

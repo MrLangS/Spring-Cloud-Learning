@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/cloud-gateway-limiter" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/spring-cloud-chapter1" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/spring-cloud-chapter1/config-client" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/spring-cloud-chapter1/config-server" charset="UTF-8" />
@@ -16,5 +17,6 @@
     <file url="file://$PROJECT_DIR$/spring-cloud-chapter1/zipkin-hi" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/spring-cloud-chapter1/zipkin-miya" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/spring-cloud-gateway" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-cloud-predicate" charset="UTF-8" />
   </component>
 </project>

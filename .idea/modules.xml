@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/LearnSpringcloud.iml" filepath="$PROJECT_DIR$/LearnSpringcloud.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-cloud-filter/spring-cloud-filter.iml" filepath="$PROJECT_DIR$/spring-cloud-filter/spring-cloud-filter.iml" />
     </modules>
   </component>
 </project>

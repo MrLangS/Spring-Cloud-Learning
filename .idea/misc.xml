@@ -20,6 +20,8 @@
         <option value="$PROJECT_DIR$/spring-cloud-chapter1/lucy-client/pom.xml" />
         <option value="$PROJECT_DIR$/spring-cloud-chapter1/service-turbine/pom.xml" />
         <option value="$PROJECT_DIR$/spring-cloud-gateway/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-cloud-predicate/pom.xml" />
+        <option value="$PROJECT_DIR$/cloud-gateway-limiter/pom.xml" />
       </list>
     </option>
   </component>

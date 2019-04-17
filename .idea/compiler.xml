@@ -6,6 +6,7 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="cloud-gateway-limiter" />
         <module name="config-client" />
         <module name="config-server" />
         <module name="eureka-client" />
@@ -18,6 +19,8 @@
         <module name="service-feign-hystrix" />
         <module name="service-turbine" />
         <module name="service-zuul" />
+        <module name="spring-cloud-filter" />
+        <module name="spring-cloud-predicate" />
         <module name="zipkin-hi" />
         <module name="zipkin-miya" />
       </profile>
@@ -28,7 +31,9 @@
       <module name="eureka-consumer-feign" target="1.8" />
       <module name="eureka-consumer-ribbon" target="1.8" />
       <module name="eureka-server" target="1.8" />
+      <module name="filter" target="1.8" />
       <module name="LearnSpringcloud" target="1.5" />
+      <module name="spring-cloud-filter" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>

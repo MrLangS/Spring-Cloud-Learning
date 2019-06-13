@@ -22,6 +22,7 @@
         <option value="$PROJECT_DIR$/spring-cloud-gateway/pom.xml" />
         <option value="$PROJECT_DIR$/spring-cloud-predicate/pom.xml" />
         <option value="$PROJECT_DIR$/cloud-gateway-limiter/pom.xml" />
+        <option value="$PROJECT_DIR$/logger-demo/pom.xml" />
       </list>
     </option>
   </component>

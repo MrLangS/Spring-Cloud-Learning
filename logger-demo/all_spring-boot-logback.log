@@ -1,0 +1,22 @@
+- | [] | [20190613 15:52:52.003] | [INFO] | [LAPTOP-HI8DBT5J] | [main] | [c.lang.logger.LoggerDemoApplication] | --> Starting LoggerDemoApplication on LAPTOP-HI8DBT5J with PID 2540 (started by 杨舜 in D:\IntelliJ IDEA 2018.2.3\workspace\LearnSpringcloud)|
+- | [] | [20190613 15:52:52.007] | [INFO] | [LAPTOP-HI8DBT5J] | [main] | [c.lang.logger.LoggerDemoApplication] | --> No active profile set, falling back to default profiles: default|
+- | [] | [20190613 15:52:54.719] | [INFO] | [LAPTOP-HI8DBT5J] | [main] | [o.a.coyote.http11.Http11NioProtocol] | --> Initializing ProtocolHandler ["http-nio-8080"]|
+- | [] | [20190613 15:52:54.733] | [INFO] | [LAPTOP-HI8DBT5J] | [main] | [o.a.catalina.core.StandardService] | --> Starting service [Tomcat]|
+- | [] | [20190613 15:52:54.735] | [INFO] | [LAPTOP-HI8DBT5J] | [main] | [o.a.catalina.core.StandardEngine] | --> Starting Servlet engine: [Apache Tomcat/9.0.19]|
+- | [] | [20190613 15:52:54.889] | [INFO] | [LAPTOP-HI8DBT5J] | [main] | [o.a.c.c.C.[Tomcat].[localhost].[/]] | --> Initializing Spring embedded WebApplicationContext|
+- | [] | [20190613 15:52:55.641] | [INFO] | [LAPTOP-HI8DBT5J] | [main] | [o.a.coyote.http11.Http11NioProtocol] | --> Starting ProtocolHandler ["http-nio-8080"]|
+- | [] | [20190613 15:52:55.706] | [INFO] | [LAPTOP-HI8DBT5J] | [main] | [c.lang.logger.LoggerDemoApplication] | --> Started LoggerDemoApplication in 4.698 seconds (JVM running for 6.183)|
+- | [] | [20190613 15:53:18.991] | [INFO] | [LAPTOP-HI8DBT5J] | [http-nio-8080-exec-1] | [o.a.c.c.C.[Tomcat].[localhost].[/]] | --> Initializing Spring DispatcherServlet 'dispatcherServlet'|
+- | [9A999EE1F3504676BA882CF8FE70CEEA] | [20190613 15:53:19.023] | [INFO] | [LAPTOP-HI8DBT5J] | [http-nio-8080-exec-1] | [c.l.l.demo.ControllerInterceptor] | --> ControllerInterceptor preHandle 在请求处理之前生成 logback requestUUID:9A999EE1F3504676BA882CF8FE70CEEA|
+- | [9A999EE1F3504676BA882CF8FE70CEEA] | [20190613 15:53:19.235] | [INFO] | [LAPTOP-HI8DBT5J] | [http-nio-8080-exec-1] | [com.lang.logger.demo.LogAspect] | --> 
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+首页IndexController 开始调用--> com.lang.logger.controller.IndexController#index 参数:["\"我是测试内容\""]|
+- | [9A999EE1F3504676BA882CF8FE70CEEA] | [20190613 15:53:19.246] | [INFO] | [LAPTOP-HI8DBT5J] | [http-nio-8080-exec-1] | [c.l.l.controller.IndexController] | --> 请求参数：content:"我是测试内容"|
+- | [9A999EE1F3504676BA882CF8FE70CEEA] | [20190613 15:53:19.246] | [WARN] | [LAPTOP-HI8DBT5J] | [http-nio-8080-exec-1] | [c.l.l.controller.IndexController] | --> 请求参数：content:"我是测试内容"|
+- | [9A999EE1F3504676BA882CF8FE70CEEA] | [20190613 15:53:19.246] | [ERROR] | [LAPTOP-HI8DBT5J] | [http-nio-8080-exec-1] | [c.l.l.controller.IndexController] | --> 请求参数：content:"我是测试内容"|
+- | [9A999EE1F3504676BA882CF8FE70CEEA] | [20190613 15:53:19.247] | [INFO] | [LAPTOP-HI8DBT5J] | [http-nio-8080-exec-1] | [com.lang.logger.demo.LogAspect] | --> 
+首页IndexController 调用结束<-- com.lang.logger.controller.IndexController#index 返回值:"2019-06-13T15:53:19.246,content:\"我是测试内容\"" 耗时:11ms
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+|
+- | [] | [20190613 15:53:19.274] | [INFO] | [LAPTOP-HI8DBT5J] | [http-nio-8080-exec-1] | [c.l.l.demo.ControllerInterceptor] | --> ControllerInterceptor postHandle 请求处理之后清除 logback MDC requestUUID|
+- | [] | [20190613 15:53:19.275] | [INFO] | [LAPTOP-HI8DBT5J] | [http-nio-8080-exec-1] | [c.l.l.demo.ControllerInterceptor] | --> ControllerInterceptor afterCompletion 整个请求处理完毕清除 logback MDC requestUUID|

@@ -1,0 +1,4 @@
+2019-06-13 14:19:31.074|DEBUG|com.lang.logger.demo.Slf4jAndLogback|main|main|18|这是一个debug
+2019-06-13 14:19:31.084|INFO|com.lang.logger.demo.Slf4jAndLogback|main|main|19|这是一个info
+2019-06-13 14:19:31.084|WARN|com.lang.logger.demo.Slf4jAndLogback|main|main|20|这是一个warn
+2019-06-13 14:19:31.085|ERROR|com.lang.logger.demo.Slf4jAndLogback|main|main|21|这是一个error
